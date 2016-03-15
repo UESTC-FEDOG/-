@@ -1,6 +1,8 @@
 # -todoList
 这是一个任务清单，大家请自行维护之（可直接在github的网页上编辑）
 
+编辑地址：<https://github.com/UESTC-FEDOG/-todoList/edit/master/README.md>
+
 语法如下：
 ```markdown
 - [x] 已完成
@@ -21,7 +23,7 @@
     + - [ ] lhg    
 1. 任务七：
     + - [ ] lhg
-    + - [ ] yyl
+    + - [x] yyl
     + - [ ] cyl
 1. 任务八：
     + - [ ] lhg
