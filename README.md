@@ -1,5 +1,5 @@
 # -todoList
-这是一个任务清单，大家请自行维护之（可直接在github的网页上编辑）
+这是一个任务清单，大家请自行维护之（可直接在github的网页上编辑）。编辑后请在commit changes的第一行填写“xxx已完成任务x”
 
 编辑地址：<https://github.com/UESTC-FEDOG/-todoList/edit/master/README.md>
 
@@ -23,8 +23,8 @@
     + - [ ] lhg    
 1. 任务七：
     + - [ ] lhg
-    + - [x] yyl
-    + - [ ] cyl
+    + - [ ] yyl
+    + - [x] cyl
 1. 任务八：
     + - [ ] lhg
     + - [ ] yyl
